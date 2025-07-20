@@ -1,4 +1,4 @@
-
+tes
 # 💼 Sistem Absensi & Penggajian Karyawan (Laravel 12)
 
 Selamat datang di Sistem Absensi & HRIS, sebuah aplikasi web komprehensif yang dibangun dari nol menggunakan Laravel 12. Proyek ini dirancang sebagai studi kasus nyata untuk mendemonstrasikan implementasi arsitektur Laravel yang bersih, aman, dan profesional.
